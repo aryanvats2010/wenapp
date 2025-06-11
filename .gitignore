@@ -1,0 +1,23 @@
+# Ignore node_modules folders recursively
+node_modules/
+
+# Ignore environment files
+*.env
+
+# Ignore build or dist folders (common in React)
+build/
+dist/
+
+# Ignore log files
+*.log
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# IDE-specific junk
+.vscode/
+.idea/
+
+# Coverage and testing outputs
+coverage/
