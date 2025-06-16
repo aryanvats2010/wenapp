@@ -34,6 +34,14 @@ const seedUsers = async () => {
         password: "password123", // This too
         isAdmin: false
       }
+       {
+        name: "Abhinav Chauhan",
+        title: "User",
+        role: "user",
+        email: "user2@example.com",
+        password: "password123", // This too
+        isAdmin: false
+      }
     ];
 
     for (const userData of users) {
