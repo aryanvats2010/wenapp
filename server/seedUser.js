@@ -33,7 +33,7 @@ const seedUsers = async () => {
         email: "user@example.com",
         password: "password123", // This too
         isAdmin: false
-      }
+      },
        {
         name: "Abhinav Chauhan",
         title: "User",
